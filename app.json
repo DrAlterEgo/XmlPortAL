@@ -1,0 +1,23 @@
+{
+  "id": "15caadd9-34e8-4147-83a1-9c8f44fc2909",
+  "name": "XmlPortALTest",
+  "publisher": "Acme INC.",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50892,
+    "to": 50899
+  }
+}
