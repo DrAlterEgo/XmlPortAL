@@ -8,7 +8,7 @@ table 50892  CMT_ImportDemoData
         {
             DataClassification = ToBeClassified;
         }
-        field(2; "TransactionDate"; Text[20])
+        field(2; "TransactionDate"; Date)
         {
             DataClassification = ToBeClassified;            
         }
